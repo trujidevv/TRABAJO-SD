@@ -1,0 +1,5 @@
+Tiempo ejecución: 26.560000 s
+Fichero: datos_1X.txt
+MAPE Global: 3.0913 %
+Procesos: 1
+Hilos: 12
